@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GHSearchApp</string>
+    <string name="login_via_github">Login via GitHub</string>
+    <string name="login_as_guest">Login as Guest</string>
+    <string name="username_or_email">Username or email</string>
+    <string name="password">Password</string>
+    <string name="unicorn_picture">Unicorn picture</string>
+    <string name="search_title">Search</string>
+    <string name="log_in">Log in</string>
 </resources>
