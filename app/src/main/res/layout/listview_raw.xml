@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="80sp"
+        android:layout_height="80sp"
+        android:id="@+id/idPic"
+        android:src="@drawable/unicorn"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idTitle"
+        android:text="Title"
+        android:textSize="20sp"
+        android:layout_toRightOf="@+id/idPic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="52sp"
+        android:id="@+id/idDesciption"
+        android:text="Desc is here"
+        android:layout_below="@+id/idTitle"
+        android:layout_toRightOf="@+id/idPic"
+        android:ellipsize="end"
+        android:maxLines="3"/>
+</RelativeLayout>
