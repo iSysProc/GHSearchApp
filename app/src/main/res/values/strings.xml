@@ -1,10 +1,18 @@
 <resources>
     <string name="app_name">GHSearchApp</string>
-    <string name="login_via_github">Login via GitHub</string>
-    <string name="login_as_guest">Login as Guest</string>
+    <string name="login_via_github">Sign in via GitHub</string>
+    <string name="login_as_guest">Sign in as Guest</string>
     <string name="username_or_email">Username or email</string>
     <string name="password">Password</string>
     <string name="unicorn_picture">Unicorn picture</string>
     <string name="search_title">Search</string>
-    <string name="log_in">Log in</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="bad_credentials">Bad credentials</string>
+    <string name="login_attempts_exceeded">Maximum number of login attempts exceeded. Please try again later</string>
+    <string name="welcome">Welcome</string>
+    <string name="press_to_open_profile">Press to open profile</string>
+    <string name="exceeded_rate_limit">You exceeded rate-limit. Please wait a little and try again.</string>
+    <string name="no_description">No description</string>
+    <string name="no_repo">No repositories found</string>
 </resources>

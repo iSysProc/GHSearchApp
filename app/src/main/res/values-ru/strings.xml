@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GHSearchApp</string>
+    <string name="login_via_github">Войти с помощью GitHub</string>
+    <string name="login_as_guest">Войти как гость</string>
+    <string name="username_or_email">Логин или email</string>
+    <string name="password">Пароль</string>
+    <string name="unicorn_picture">Unicorn picture</string>
+    <string name="search_title">Поиск</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_out">Выйти</string>
+    <string name="bad_credentials">Неверные данные</string>
+    <string name="login_attempts_exceeded">Превышен лимит попыток подключения. Повторите попытку позже</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="press_to_open_profile">Нажмите, чтобы открыть профиль</string>
+    <string name="exceeded_rate_limit">Вы превысили лимит запросов. Повторите попытку позже</string>
+    <string name="no_description">Нет описания</string>
+    <string name="no_repo">Репозиторий не найден</string>
+</resources>
